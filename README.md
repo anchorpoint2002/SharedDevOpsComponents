@@ -1,6 +1,6 @@
 # Introduction 
 This repository demonstrates how to enable cross-team sharing of Azure DevOps pipelines using templating and parameter injection.
-Please read [this]() blog for more information about the concept.
+Please read [this](https://medium.com/microsoftazure/devops-patterns-sharing-reusable-components-d351a9b4fdf9) blog for more information about the concept.
 
 # Getting Started
 
